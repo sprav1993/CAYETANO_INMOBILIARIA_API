@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Cayetano.Inmobiliaria.Application.Dto\Cayetano.Inmobiliaria.Application.Dto.csproj" />
+    <ProjectReference Include="..\Cayetano.Inmobiliaria.Application.Interface\Cayetano.Inmobiliaria.Application.Interface.csproj" />
+    <ProjectReference Include="..\Cayetano.Inmobiliaria.Domain.Entity\Cayetano.Inmobiliaria.Domain.Entity.csproj" />
+    <ProjectReference Include="..\Cayetano.Inmobiliaria.Domain.Interface\Cayetano.Inmobiliaria.Domain.Interface.csproj" />
+    <ProjectReference Include="..\Cayetano.Inmobiliaria.Transversal.Common\Cayetano.Inmobiliaria.Transversal.Common.csproj" />
+  </ItemGroup>
+
+</Project>

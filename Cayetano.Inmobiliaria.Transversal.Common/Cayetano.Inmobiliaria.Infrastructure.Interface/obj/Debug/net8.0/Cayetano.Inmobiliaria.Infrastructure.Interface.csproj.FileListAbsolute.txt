@@ -1,0 +1,17 @@
+D:\Proyectos Empresas\CAYETANO\Cayetano.Inmobiliaria.Transversal.Common\Cayetano.Inmobiliaria.Infrastructure.Interface\bin\Debug\net8.0\Cayetano.Inmobiliaria.Infrastructure.Interface.deps.json
+D:\Proyectos Empresas\CAYETANO\Cayetano.Inmobiliaria.Transversal.Common\Cayetano.Inmobiliaria.Infrastructure.Interface\bin\Debug\net8.0\Cayetano.Inmobiliaria.Infrastructure.Interface.dll
+D:\Proyectos Empresas\CAYETANO\Cayetano.Inmobiliaria.Transversal.Common\Cayetano.Inmobiliaria.Infrastructure.Interface\bin\Debug\net8.0\Cayetano.Inmobiliaria.Infrastructure.Interface.pdb
+D:\Proyectos Empresas\CAYETANO\Cayetano.Inmobiliaria.Transversal.Common\Cayetano.Inmobiliaria.Infrastructure.Interface\bin\Debug\net8.0\Cayetano.Inmobiliaria.Domain.Entity.dll
+D:\Proyectos Empresas\CAYETANO\Cayetano.Inmobiliaria.Transversal.Common\Cayetano.Inmobiliaria.Infrastructure.Interface\bin\Debug\net8.0\Cayetano.Inmobiliaria.Domain.Interface.dll
+D:\Proyectos Empresas\CAYETANO\Cayetano.Inmobiliaria.Transversal.Common\Cayetano.Inmobiliaria.Infrastructure.Interface\bin\Debug\net8.0\Cayetano.Inmobiliaria.Domain.Interface.pdb
+D:\Proyectos Empresas\CAYETANO\Cayetano.Inmobiliaria.Transversal.Common\Cayetano.Inmobiliaria.Infrastructure.Interface\bin\Debug\net8.0\Cayetano.Inmobiliaria.Domain.Entity.pdb
+D:\Proyectos Empresas\CAYETANO\Cayetano.Inmobiliaria.Transversal.Common\Cayetano.Inmobiliaria.Infrastructure.Interface\obj\Debug\net8.0\Cayetano.Inmobiliaria.Infrastructure.Interface.csproj.AssemblyReference.cache
+D:\Proyectos Empresas\CAYETANO\Cayetano.Inmobiliaria.Transversal.Common\Cayetano.Inmobiliaria.Infrastructure.Interface\obj\Debug\net8.0\Cayetano.Inmobiliaria.Infrastructure.Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos Empresas\CAYETANO\Cayetano.Inmobiliaria.Transversal.Common\Cayetano.Inmobiliaria.Infrastructure.Interface\obj\Debug\net8.0\Cayetano.Inmobiliaria.Infrastructure.Interface.AssemblyInfoInputs.cache
+D:\Proyectos Empresas\CAYETANO\Cayetano.Inmobiliaria.Transversal.Common\Cayetano.Inmobiliaria.Infrastructure.Interface\obj\Debug\net8.0\Cayetano.Inmobiliaria.Infrastructure.Interface.AssemblyInfo.cs
+D:\Proyectos Empresas\CAYETANO\Cayetano.Inmobiliaria.Transversal.Common\Cayetano.Inmobiliaria.Infrastructure.Interface\obj\Debug\net8.0\Cayetano.Inmobiliaria.Infrastructure.Interface.csproj.CoreCompileInputs.cache
+D:\Proyectos Empresas\CAYETANO\Cayetano.Inmobiliaria.Transversal.Common\Cayetano.Inmobiliaria.Infrastructure.Interface\obj\Debug\net8.0\Cayetano.Inmobiliaria.Infrastructure.Interface.csproj.CopyComplete
+D:\Proyectos Empresas\CAYETANO\Cayetano.Inmobiliaria.Transversal.Common\Cayetano.Inmobiliaria.Infrastructure.Interface\obj\Debug\net8.0\Cayetano.Inmobiliaria.Infrastructure.Interface.dll
+D:\Proyectos Empresas\CAYETANO\Cayetano.Inmobiliaria.Transversal.Common\Cayetano.Inmobiliaria.Infrastructure.Interface\obj\Debug\net8.0\refint\Cayetano.Inmobiliaria.Infrastructure.Interface.dll
+D:\Proyectos Empresas\CAYETANO\Cayetano.Inmobiliaria.Transversal.Common\Cayetano.Inmobiliaria.Infrastructure.Interface\obj\Debug\net8.0\Cayetano.Inmobiliaria.Infrastructure.Interface.pdb
+D:\Proyectos Empresas\CAYETANO\Cayetano.Inmobiliaria.Transversal.Common\Cayetano.Inmobiliaria.Infrastructure.Interface\obj\Debug\net8.0\ref\Cayetano.Inmobiliaria.Infrastructure.Interface.dll

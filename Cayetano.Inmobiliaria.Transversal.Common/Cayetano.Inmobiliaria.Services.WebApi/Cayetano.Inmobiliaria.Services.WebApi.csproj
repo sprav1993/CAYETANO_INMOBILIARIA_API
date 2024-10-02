@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <InvariantGlobalization>true</InvariantGlobalization>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.8" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Cayetano.Inmobiliaria.Application.Dto\Cayetano.Inmobiliaria.Application.Dto.csproj" />
+    <ProjectReference Include="..\Cayetano.Inmobiliaria.Application.Interface\Cayetano.Inmobiliaria.Application.Interface.csproj" />
+    <ProjectReference Include="..\Cayetano.Inmobiliaria.Application.Main\Cayetano.Inmobiliaria.Application.Main.csproj" />
+    <ProjectReference Include="..\Cayetano.Inmobiliaria.Domain.Core\Cayetano.Inmobiliaria.Domain.Core.csproj" />
+    <ProjectReference Include="..\Cayetano.Inmobiliaria.Domain.Entity\Cayetano.Inmobiliaria.Domain.Entity.csproj" />
+    <ProjectReference Include="..\Cayetano.Inmobiliaria.Domain.Interface\Cayetano.Inmobiliaria.Domain.Interface.csproj" />
+    <ProjectReference Include="..\Cayetano.Inmobiliaria.Infrastructure.Data\Cayetano.Inmobiliaria.Infrastructure.Data.csproj" />
+    <ProjectReference Include="..\Cayetano.Inmobiliaria.Infrastructure.Interface\Cayetano.Inmobiliaria.Infrastructure.Interface.csproj" />
+    <ProjectReference Include="..\Cayetano.Inmobiliaria.Infrastructure.Repository\Cayetano.Inmobiliaria.Infrastructure.Repository.csproj" />
+    <ProjectReference Include="..\Cayetano.Inmobiliaria.Transversal.Common\Cayetano.Inmobiliaria.Transversal.Common.csproj" />
+    <ProjectReference Include="..\Cayetano.Inmobiliaria.Transversal.Mapper\Cayetano.Inmobiliaria.Transversal.Mapper.csproj" />
+  </ItemGroup>
+
+</Project>

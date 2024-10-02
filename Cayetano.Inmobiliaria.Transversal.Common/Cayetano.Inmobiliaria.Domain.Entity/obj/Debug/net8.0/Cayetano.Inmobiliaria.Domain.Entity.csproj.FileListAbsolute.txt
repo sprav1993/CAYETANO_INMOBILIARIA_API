@@ -1,0 +1,11 @@
+D:\Proyectos Empresas\CAYETANO\Cayetano.Inmobiliaria.Transversal.Common\Cayetano.Inmobiliaria.Domain.Entity\bin\Debug\net8.0\Cayetano.Inmobiliaria.Domain.Entity.deps.json
+D:\Proyectos Empresas\CAYETANO\Cayetano.Inmobiliaria.Transversal.Common\Cayetano.Inmobiliaria.Domain.Entity\bin\Debug\net8.0\Cayetano.Inmobiliaria.Domain.Entity.dll
+D:\Proyectos Empresas\CAYETANO\Cayetano.Inmobiliaria.Transversal.Common\Cayetano.Inmobiliaria.Domain.Entity\bin\Debug\net8.0\Cayetano.Inmobiliaria.Domain.Entity.pdb
+D:\Proyectos Empresas\CAYETANO\Cayetano.Inmobiliaria.Transversal.Common\Cayetano.Inmobiliaria.Domain.Entity\obj\Debug\net8.0\Cayetano.Inmobiliaria.Domain.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos Empresas\CAYETANO\Cayetano.Inmobiliaria.Transversal.Common\Cayetano.Inmobiliaria.Domain.Entity\obj\Debug\net8.0\Cayetano.Inmobiliaria.Domain.Entity.AssemblyInfoInputs.cache
+D:\Proyectos Empresas\CAYETANO\Cayetano.Inmobiliaria.Transversal.Common\Cayetano.Inmobiliaria.Domain.Entity\obj\Debug\net8.0\Cayetano.Inmobiliaria.Domain.Entity.AssemblyInfo.cs
+D:\Proyectos Empresas\CAYETANO\Cayetano.Inmobiliaria.Transversal.Common\Cayetano.Inmobiliaria.Domain.Entity\obj\Debug\net8.0\Cayetano.Inmobiliaria.Domain.Entity.csproj.CoreCompileInputs.cache
+D:\Proyectos Empresas\CAYETANO\Cayetano.Inmobiliaria.Transversal.Common\Cayetano.Inmobiliaria.Domain.Entity\obj\Debug\net8.0\Cayetano.Inmobiliaria.Domain.Entity.dll
+D:\Proyectos Empresas\CAYETANO\Cayetano.Inmobiliaria.Transversal.Common\Cayetano.Inmobiliaria.Domain.Entity\obj\Debug\net8.0\refint\Cayetano.Inmobiliaria.Domain.Entity.dll
+D:\Proyectos Empresas\CAYETANO\Cayetano.Inmobiliaria.Transversal.Common\Cayetano.Inmobiliaria.Domain.Entity\obj\Debug\net8.0\Cayetano.Inmobiliaria.Domain.Entity.pdb
+D:\Proyectos Empresas\CAYETANO\Cayetano.Inmobiliaria.Transversal.Common\Cayetano.Inmobiliaria.Domain.Entity\obj\Debug\net8.0\ref\Cayetano.Inmobiliaria.Domain.Entity.dll

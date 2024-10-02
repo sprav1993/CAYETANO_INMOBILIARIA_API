@@ -1,0 +1,175 @@
+{
+	"info": {
+		"_postman_id": "2a11c4f9-7f81-464c-9fea-648e17db226b",
+		"name": "CAYETANO_INMOBILIARIA",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "36823185",
+		"_collection_link": "https://lunar-eclipse-312932.postman.co/workspace/918ecbd9-6d9b-46a4-8311-014a29b4a5ac/collection/36823185-2a11c4f9-7f81-464c-9fea-648e17db226b?action=share&source=collection_link&creator=36823185"
+	},
+	"item": [
+		{
+			"name": "USERS_Autenticacion",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"UserName\": \"admin\",\r\n    \"Password\": \"123456\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost/api/users/authenticate",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"api",
+						"users",
+						"authenticate"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "INMUEBLES_POST",
+			"request": {
+				"auth": {
+					"type": "bearer"
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"TipoInmueble\": \"Departamento\",\r\n  \"Direccion\": \"Av. Arequipa 1234, Lima\",\r\n  \"Ciudad\": \"Lima\",\r\n  \"CantidadHabitaciones\": 3,\r\n  \"CantidadBaños\": 2,\r\n  \"MetrosCuadrados\": 120.5,\r\n  \"Precio\": 350000.00,\r\n  \"TieneGaraje\": true,\r\n  \"Descripcion\": \"Departamento moderno con vista a la ciudad.\",\r\n  \"FechaConstruccion\": \"2015-08-01\",\r\n  \"Disponible\": true\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost/api/inmueble/async",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"api",
+						"inmueble",
+						"async"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "INMUEBLES_PUT",
+			"request": {
+				"auth": {
+					"type": "bearer"
+				},
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"InmuebleId\": 1,\r\n  \"TipoInmueble\": \"Casa\",\r\n  \"Direccion\": \"Av. Javier Prado 4321, Lima\",\r\n  \"Ciudad\": \"Lima\",\r\n  \"CantidadHabitaciones\": 4,\r\n  \"CantidadBaños\": 3,\r\n  \"MetrosCuadrados\": 200.75,\r\n  \"Precio\": 450000.00,\r\n  \"TieneGaraje\": true,\r\n  \"Descripcion\": \"Casa familiar en excelente ubicación.\",\r\n  \"FechaConstruccion\": \"2010-03-15\",\r\n  \"Disponible\": true\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost/api/inmueble/async",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"api",
+						"inmueble",
+						"async"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "INMUEBLES_DEL",
+			"request": {
+				"auth": {
+					"type": "bearer"
+				},
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "http://localhost/api/inmueble/async/1",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"api",
+						"inmueble",
+						"async",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "INMUEBLES_GET",
+			"request": {
+				"auth": {
+					"type": "bearer"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost/api/inmueble/async/1",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"api",
+						"inmueble",
+						"async",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "INMUEBLES_GETALL",
+			"request": {
+				"auth": {
+					"type": "bearer"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost/api/inmueble/async",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"api",
+						"inmueble",
+						"async"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

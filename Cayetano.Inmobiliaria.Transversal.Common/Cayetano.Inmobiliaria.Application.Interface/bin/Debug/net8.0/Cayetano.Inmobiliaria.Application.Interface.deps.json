@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Cayetano.Inmobiliaria.Application.Interface/1.0.0": {
+        "dependencies": {
+          "Cayetano.Inmobiliaria.Application.Dto": "1.0.0",
+          "Cayetano.Inmobiliaria.Transversal.Common": "1.0.0"
+        },
+        "runtime": {
+          "Cayetano.Inmobiliaria.Application.Interface.dll": {}
+        }
+      },
+      "Cayetano.Inmobiliaria.Application.Dto/1.0.0": {
+        "runtime": {
+          "Cayetano.Inmobiliaria.Application.Dto.dll": {}
+        }
+      },
+      "Cayetano.Inmobiliaria.Transversal.Common/1.0.0": {
+        "runtime": {
+          "Cayetano.Inmobiliaria.Transversal.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cayetano.Inmobiliaria.Application.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cayetano.Inmobiliaria.Application.Dto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cayetano.Inmobiliaria.Transversal.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

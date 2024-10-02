@@ -1,0 +1,17 @@
+D:\Proyectos Empresas\CAYETANO\Cayetano.Inmobiliaria.Transversal.Common\Cayetano.Inmobiliaria.Transversal.Mapper\bin\Debug\net8.0\Cayetano.Inmobiliaria.Transversal.Mapper.deps.json
+D:\Proyectos Empresas\CAYETANO\Cayetano.Inmobiliaria.Transversal.Common\Cayetano.Inmobiliaria.Transversal.Mapper\bin\Debug\net8.0\Cayetano.Inmobiliaria.Transversal.Mapper.dll
+D:\Proyectos Empresas\CAYETANO\Cayetano.Inmobiliaria.Transversal.Common\Cayetano.Inmobiliaria.Transversal.Mapper\bin\Debug\net8.0\Cayetano.Inmobiliaria.Transversal.Mapper.pdb
+D:\Proyectos Empresas\CAYETANO\Cayetano.Inmobiliaria.Transversal.Common\Cayetano.Inmobiliaria.Transversal.Mapper\bin\Debug\net8.0\Cayetano.Inmobiliaria.Application.Dto.dll
+D:\Proyectos Empresas\CAYETANO\Cayetano.Inmobiliaria.Transversal.Common\Cayetano.Inmobiliaria.Transversal.Mapper\bin\Debug\net8.0\Cayetano.Inmobiliaria.Domain.Entity.dll
+D:\Proyectos Empresas\CAYETANO\Cayetano.Inmobiliaria.Transversal.Common\Cayetano.Inmobiliaria.Transversal.Mapper\bin\Debug\net8.0\Cayetano.Inmobiliaria.Application.Dto.pdb
+D:\Proyectos Empresas\CAYETANO\Cayetano.Inmobiliaria.Transversal.Common\Cayetano.Inmobiliaria.Transversal.Mapper\bin\Debug\net8.0\Cayetano.Inmobiliaria.Domain.Entity.pdb
+D:\Proyectos Empresas\CAYETANO\Cayetano.Inmobiliaria.Transversal.Common\Cayetano.Inmobiliaria.Transversal.Mapper\obj\Debug\net8.0\Cayetano.Inmobiliaria.Transversal.Mapper.csproj.AssemblyReference.cache
+D:\Proyectos Empresas\CAYETANO\Cayetano.Inmobiliaria.Transversal.Common\Cayetano.Inmobiliaria.Transversal.Mapper\obj\Debug\net8.0\Cayetano.Inmobiliaria.Transversal.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos Empresas\CAYETANO\Cayetano.Inmobiliaria.Transversal.Common\Cayetano.Inmobiliaria.Transversal.Mapper\obj\Debug\net8.0\Cayetano.Inmobiliaria.Transversal.Mapper.AssemblyInfoInputs.cache
+D:\Proyectos Empresas\CAYETANO\Cayetano.Inmobiliaria.Transversal.Common\Cayetano.Inmobiliaria.Transversal.Mapper\obj\Debug\net8.0\Cayetano.Inmobiliaria.Transversal.Mapper.AssemblyInfo.cs
+D:\Proyectos Empresas\CAYETANO\Cayetano.Inmobiliaria.Transversal.Common\Cayetano.Inmobiliaria.Transversal.Mapper\obj\Debug\net8.0\Cayetano.Inmobiliaria.Transversal.Mapper.csproj.CoreCompileInputs.cache
+D:\Proyectos Empresas\CAYETANO\Cayetano.Inmobiliaria.Transversal.Common\Cayetano.Inmobiliaria.Transversal.Mapper\obj\Debug\net8.0\Cayetano.Inmobiliaria.Transversal.Mapper.csproj.CopyComplete
+D:\Proyectos Empresas\CAYETANO\Cayetano.Inmobiliaria.Transversal.Common\Cayetano.Inmobiliaria.Transversal.Mapper\obj\Debug\net8.0\Cayetano.Inmobiliaria.Transversal.Mapper.dll
+D:\Proyectos Empresas\CAYETANO\Cayetano.Inmobiliaria.Transversal.Common\Cayetano.Inmobiliaria.Transversal.Mapper\obj\Debug\net8.0\refint\Cayetano.Inmobiliaria.Transversal.Mapper.dll
+D:\Proyectos Empresas\CAYETANO\Cayetano.Inmobiliaria.Transversal.Common\Cayetano.Inmobiliaria.Transversal.Mapper\obj\Debug\net8.0\Cayetano.Inmobiliaria.Transversal.Mapper.pdb
+D:\Proyectos Empresas\CAYETANO\Cayetano.Inmobiliaria.Transversal.Common\Cayetano.Inmobiliaria.Transversal.Mapper\obj\Debug\net8.0\ref\Cayetano.Inmobiliaria.Transversal.Mapper.dll

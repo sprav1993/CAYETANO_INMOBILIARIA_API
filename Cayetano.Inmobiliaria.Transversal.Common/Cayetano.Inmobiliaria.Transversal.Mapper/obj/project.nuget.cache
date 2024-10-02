@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "jyjSdPod1jJ4XfYOoE2E16NTqeXD9xqiRROHa/cFLl6M7irBQ6j8VnZSQe7E2cmxTE//Tsj73flTLsbaAxS5wA==",
+  "success": true,
+  "projectFilePath": "D:\\Proyectos Empresas\\CAYETANO\\Cayetano.Inmobiliaria.Transversal.Common\\Cayetano.Inmobiliaria.Transversal.Mapper\\Cayetano.Inmobiliaria.Transversal.Mapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pedro\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

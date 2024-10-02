@@ -1,0 +1,6 @@
+@Cayetano.Inmobiliaria.Services.WebApi_HostAddress = http://localhost:5020
+
+GET {{Cayetano.Inmobiliaria.Services.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
